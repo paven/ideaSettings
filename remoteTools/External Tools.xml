@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="make install" description="effie" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="make install" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="pvn.devcontent.textalk.com" />
+    </exec>
+  </tool>
+</toolSet>
