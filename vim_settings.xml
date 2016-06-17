@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/textalk-content/api-rest/spec.yaml" timestamp="1466101178391">
@@ -8,34 +8,52 @@
         <mark key="]" line="490" column="0" />
         <mark key="." line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/git/textalk-content/tests/Email/ChangeEmailEmailSenderTest.php" timestamp="1466152908100">
-        <mark key="[" line="29" column="31" />
+      <file name="$USER_HOME$/git/textalk-content/tests/Email/ChangeEmailEmailSenderTest.php" timestamp="1466155212647">
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="80" column="58" />
+        <mark key="." line="80" column="58" />
+        <mark key="^" line="80" column="58" />
       </file>
       <file name="$USER_HOME$/git/textalk-content/prenly/classes/Account/Confirmation/ChangeEmailLinkGenerator.php" timestamp="1466105538639" />
+      <file name="$USER_HOME$/git/textalk-content/helper/Spy/SpyMethod.php" timestamp="1466153008236" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWxfZmFjdG9yeSA9ICR0aGlzLT5lbWFpbF9mYWN0b3J5LT5yZXZlYWwoKTsK</text>
+      <register name="1" type="4">
+        <text>['email_driver']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWxfZmFjdG9yeSA9ICR0aGlzLT5lbWFpbF9mYWN0b3J5LT5yZXZlYWwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>['email_driver']</text>
       </register>
-      <register name="2" type="4">
-        <text>mail</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IHBhcwo=</text>
+        <text encoding="base64">ICAgICAgICAkbmV3X2VtYWlsID0gbmV3IFNweU1ldGhvZCgnbmV3RW1haWwnLCAkZW1haWxfZHJpdmVyKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>sword
-          in: formData
-          description: New password to set
-          required: true
-          type: string</text>
+        <text>l</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
+      <register name="6" type="4">
+        <text>a</text>
+      </register>
+      <register name="7" type="4">
+        <text>m</text>
+      </register>
+      <register name="8" type="4">
+        <text>e</text>
+      </register>
+      <register name="9" type="4">
+        <text>_</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>mail</text>
+        <text>['email_driver']</text>
       </register>
     </registers>
     <search>
@@ -44,6 +62,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -51,6 +72,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
