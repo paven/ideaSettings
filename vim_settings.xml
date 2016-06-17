@@ -12,16 +12,19 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkZW1haWxfZmFjdG9yeSA9ICR0aGlzLT5lbWFpbF9mYWN0b3J5LT5yZXZlYWwoKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZW1haWxfZmFjdG9yeSA9ICR0aGlzLT5lbWFpbF9mYWN0b3J5LT5yZXZlYWwoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>mail</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mail</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAtIG5hbWU6IHBhcwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>sword
           in: formData
           description: New password to set
