@@ -8,6 +8,9 @@
         <mark key="]" line="490" column="0" />
         <mark key="." line="490" column="0" />
       </file>
+      <file name="$USER_HOME$/git/textalk-content/tests/Email/ChangeEmailEmailSenderTest.php" timestamp="1466152908100">
+        <mark key="[" line="29" column="31" />
+      </file>
       <file name="$USER_HOME$/git/textalk-content/prenly/classes/Account/Confirmation/ChangeEmailLinkGenerator.php" timestamp="1466105538639" />
     </filemarks>
     <jumps />
@@ -39,10 +42,15 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
