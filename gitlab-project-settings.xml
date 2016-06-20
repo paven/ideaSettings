@@ -1,6 +1,6 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="" />
-    <option name="token" value="" />
+    <option name="host" value="https://gitlab.textalk.com" />
+    <option name="token" value="2vYVh-sE26hpnzPWpWdm" />
   </component>
 </application>
