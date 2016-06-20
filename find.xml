@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/pvn/git/textalk-content/prenly/classes/Email/ChangeEmailEmailSender.php'" />
-    <option name="defaultScopeName" value="File '/home/pvn/git/textalk-content/prenly/classes/Email/ChangeEmailEmailSender.php'" />
+    <option name="customScope" value="File '/home/pvn/git/textalk-content/prenly/classes/V1/Controller/Confirmations/ChangeEmail.php'" />
+    <option name="defaultScopeName" value="File '/home/pvn/git/textalk-content/prenly/classes/V1/Controller/Confirmations/ChangeEmail.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/home/pvn/git/textalk-content/prenly/classes/Email/ChangeEmailEmailSender.php'" />
+    <option name="SEARCH_SCOPE" value="File '/home/pvn/git/textalk-content/prenly/classes/V1/Controller/Confirmations/ChangeEmail.php'" />
   </component>
 </application>
