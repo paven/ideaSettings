@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="http://gitlab.textalk.com" />
+    <option name="USERNAME" value="pvn" />
+  </component>
+</application>
