@@ -14,49 +14,49 @@
         <mark key="." line="80" column="58" />
         <mark key="^" line="80" column="58" />
       </file>
-      <file name="$USER_HOME$/git/textalk-content/prenly/classes/Account/Account.php" timestamp="1467272718757">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/git/textalk-content/prenly/classes/Account/Confirmation/LinkBuilder.php" timestamp="1467280271751">
+        <mark key="[" line="14" column="88" />
+        <mark key="]" line="14" column="87" />
+        <mark key="." line="14" column="87" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>c</text>
+        <text>o</text>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>o</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>b</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>b</text>
       </register>
       <register name="6" type="4">
+        <text>u</text>
+      </register>
+      <register name="7" type="4">
         <text>p</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAnbGFzdF9sb2dpbicsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>['email_driver']</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
