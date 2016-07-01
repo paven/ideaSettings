@@ -6,11 +6,4 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
     </exec>
   </tool>
-  <tool name="ethel make" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/bin/ethel_make" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
-    </exec>
-  </tool>
 </toolSet>
