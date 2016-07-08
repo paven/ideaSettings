@@ -4,6 +4,9 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
   <component name="RecentTaskRepositories">
     <Trello shared="false">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
