@@ -1,42 +1,11 @@
 <application>
-  <component name="DBNavigator.Application.Settings">
-    <enable-debug-mode value="false" />
-    <enable-developer-mode value="false" />
-    <show-plugin-conflict-dialog value="false" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
   </component>
-  <component name="PhpRefactoringSettings">
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
-  </component>
-  <component name="RecentTaskRepositories">
-    <Trello shared="false">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentBoard" />
-      <option name="currentList" />
-      <option name="currentUser">
-        <TrelloUser id="52a55cb2950b185c7a000769" name="patrikgustafsson" />
-      </option>
-      <password>dfcedf92df9cdfcedf9adf9cdf92dfcbdf9adf99dfccdf9bdf9bdfccdf92df9adf9adfcbdfccdf9ddf9ddf92dfcedf92df93dfcbdfc9df92df9ddfc9dfc8df98df9bdf9adf9bdfccdf9fdf9bdfcedf9bdfcfdf92dfc9df99df93dfcedfc8df9fdf9ddf99df99dfc8dfcbdfc9df99df9edf9cdf93dfc9dfc8dfc9df9edfc8df9d</password>
-      <option name="includeAllCards" value="false" />
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="url" value="https://api.trello.com" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username />
-    </Trello>
-    <Gitlab shared="false" url="http://gitlab.textalk.com">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentProject" />
-      <password>df98dfdcdff3dffcdfc2df87dfd9dfefdf98df9cdfc2dfdadfc4dfd0dffadffddfdadffddfcedfc7</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username />
-    </Gitlab>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>

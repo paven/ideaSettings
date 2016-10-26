@@ -2,93 +2,19 @@
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/git/textalk-content/api-rest/spec.yaml" timestamp="1466101178391">
-        <mark key="[" line="490" column="0" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/textalk-content/tests/Email/ChangeEmailEmailSenderTest.php" timestamp="1466155212647">
-        <mark key="[" line="100" column="38" />
-        <mark key="]" line="80" column="58" />
-        <mark key="." line="80" column="58" />
-        <mark key="^" line="80" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/textalk-content/prenly/classes/Account/Confirmation/LinkBuilder.php" timestamp="1467280271751">
-        <mark key="[" line="14" column="88" />
-        <mark key="]" line="14" column="87" />
-        <mark key="." line="14" column="87" />
-      </file>
-      <file name="$USER_HOME$/git/textalk-content/tests/Account/Confirmation/LinkBuilderUnitTest.php" timestamp="1467287238641">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbGlua0J1aWxkZXJfd2l0aF9oYXNoX3N5bWJvbC0+YXBwZW5kUXVlcnkoInRBZGRlZCIpOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbGlua0J1aWxkZXJfd2l0aF9oYXNoX3N5bWJvbC0+YXBwZW5kUXVlcnkoInRBZGRlZCIpOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>no</text>
-      </register>
-      <register name="3" type="4">
-        <text>o</text>
-      </register>
-      <register name="4" type="4">
-        <text>c</text>
-      </register>
-      <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="7" type="4">
-        <text>b</text>
-      </register>
-      <register name="8" type="4">
-        <text>u</text>
-      </register>
-      <register name="9" type="4">
-        <text>p</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
-      </register>
-      <register name="-" type="4">
-        <text>no</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd>
-        <entry>wq</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>

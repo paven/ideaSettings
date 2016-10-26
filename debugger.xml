@@ -3,10 +3,10 @@
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_GETTERS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -67,6 +67,26 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="ch.qos.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.glassfish.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.eclipse.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -75,6 +95,11 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
