@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="ethel sync" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="TSC Compile type script" description="nneded for carma test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/bin/ethel_sync" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+      <option name="COMMAND" value="$USER_HOME$/IdeaProjects/seal-gui/node_modules/typescript/bin/tsc" />
+      <option name="PARAMETERS" value="client/app/test.ts -t es5 --outFile client/app/test.js --sourceMap" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
