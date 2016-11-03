@@ -1,6 +1,6 @@
 <application>
   <component name="CrucibleSettings">
-    <option name="SERVER_URL" value="http://gitlab.textalk.com" />
-    <option name="USERNAME" value="pvn" />
+    <option name="SERVER_URL" value="github.com" />
+    <option name="USERNAME" value="paven" />
   </component>
 </application>
