@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="graph" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
+      <mapping pattern="alog" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
