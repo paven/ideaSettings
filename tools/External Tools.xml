@@ -1,9 +1,16 @@
 <toolSet name="External Tools">
-  <tool name="TSC Compile type script" description="nneded for carma test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="TSC Compile type script" description="nneded for carma test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/IdeaProjects/seal-gui/node_modules/typescript/bin/tsc" />
       <option name="PARAMETERS" value="client/app/test.ts -t es5 --outFile client/app/test.js --sourceMap" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="liquidbase" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="rm" />
+      <option name="PARAMETERS" value=" -r liquidbase" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/target/" />
     </exec>
   </tool>
 </toolSet>
