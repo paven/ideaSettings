@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'seal-back'" />
-    <option name="defaultScopeName" value="Project 'seal-back'" />
+    <option name="customScope" value="File '[seal-user] - .../seal-user/src/main/java/com/seal/module/user/service/GroupServiceImpl.java'" />
+    <option name="defaultScopeName" value="File '[seal-user] - .../seal-user/src/main/java/com/seal/module/user/service/GroupServiceImpl.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'seal-back'" />
+    <option name="SEARCH_SCOPE" value="File '[seal-user] - .../seal-user/src/main/java/com/seal/module/user/service/GroupServiceImpl.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
