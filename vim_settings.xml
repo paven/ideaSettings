@@ -2,7 +2,10 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/main/java/com/seal/batch/SystemStatusMonitor.java" timestamp="1482237637144" />
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482237545917" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
