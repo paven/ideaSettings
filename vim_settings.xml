@@ -1,13 +1,28 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/main/java/com/seal/batch/SystemStatusMonitor.java" timestamp="1482237637144" />
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482237545917" />
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482239254861">
+        <mark key="^" line="63" column="11" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="8">
+        <text>StringBuilder checkLogMessage = new StringBuilder(</text>
+      </register>
+      <register name="&quot;" type="8">
+        <text>StringBuilder checkLogMessage = new StringBuilder(</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja0xvZ01lc3NhZ2UuYXBwZW5kKCkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -18,6 +33,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
