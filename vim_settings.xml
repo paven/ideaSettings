@@ -3,20 +3,28 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/main/java/com/seal/batch/SystemStatusMonitor.java" timestamp="1482237637144" />
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482239254861">
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482410573488">
         <mark key="^" line="63" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/test/java/com/seal/servicestatus/checkers/HttpStatusCheckerTest.java" timestamp="1482410670692">
+        <mark key="[" line="15" column="64" />
+        <mark key="]" line="15" column="64" />
+        <mark key="." line="15" column="64" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/seal/commons/commons-util/4.1.0.170/commons-util-4.1.0.170-sources.jar!/com/seal/commons/util/servicestatus/StatusMessage.java" timestamp="1482410658505" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="8">
-        <text>StringBuilder checkLogMessage = new StringBuilder(</text>
+        <text>httpStatusChecke</text>
       </register>
       <register name="&quot;" type="8">
+        <text>httpStatusChecke</text>
+      </register>
+      <register name="2" type="8">
         <text>StringBuilder checkLogMessage = new StringBuilder(</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja0xvZ01lc3NhZ2UuYXBwZW5kKCkK</text>
       </register>
       <register name="-" type="4">
