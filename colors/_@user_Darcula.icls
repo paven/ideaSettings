@@ -3,12 +3,19 @@
     <property name="created">2016-11-28T08:33:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-11-28T13:52:35</property>
+    <property name="modified">2017-01-24T09:47:46</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <colors>
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="3b4c0a" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="443e0b" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="23484a" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="232048" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="4c1219" />
+  </colors>
   <attributes>
     <option name="INLINE_PARAMETER_HINT">
       <value>
