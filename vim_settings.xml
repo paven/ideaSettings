@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-servicestatus/src/main/java/com/seal/servicestatus/checkers/HttpStatusChecker.java" timestamp="1482410573488">
         <mark key="^" line="63" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-domain/src/main/java/com/seal/domain/SealContract.java" timestamp="1486993486006" />
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/test/java/com/seal/servicestatus/checkers/HttpStatusCheckerTest.java" timestamp="1482410670692">
         <mark key="[" line="15" column="64" />
         <mark key="]" line="15" column="64" />
@@ -29,12 +30,16 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="49" column="61" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486992062088">
+      <file name="/fragment.java" timestamp="1486994135327">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486994232210">
         <mark key="e" line="54" column="38" />
-        <mark key="'" line="54" column="43" />
-        <mark key="[" line="146" column="42" />
-        <mark key="]" line="146" column="42" />
-        <mark key="." line="146" column="42" />
+        <mark key="'" line="163" column="55" />
+        <mark key="[" line="163" column="55" />
+        <mark key="]" line="163" column="56" />
+        <mark key="." line="163" column="56" />
+        <mark key="^" line="164" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -43,13 +48,14 @@
       <jump line="148" column="8" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcContractRepository.java" />
       <jump line="51" column="26" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" />
       <jump line="52" column="43" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" />
+      <jump line="163" column="55" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contractRepository</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>contractRepository</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -58,31 +64,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSmRiY01ldGFkYXRhQ2F0ZWdvcnlSZXBvc2l0b3J5IGNhdGVnb3J5UmVwb3NpdG9yeTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSmRiY01ldGFkYXRhQ2F0ZWdvcnlSZXBvc2l0b3J5IGNhdGVnb3J5UmVwb3NpdG9yeTsgICAK</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YXMuYWRkKG1ldGFkYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgQEF1dG93aXJlZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TWV0YWRhdGE+IG1ldGFkYXRhcyA9IGNvbnRyYWN0LmdldE1ldGFkYXRhcygpOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAvL2NhdGVnb3J5Ug==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb250cmFjdFJlcG9zaXRvcnkuc2F2ZShjb250cmFjdC5vcGVuKCkubWV0YWRhdGEobWV0YWRhdGFzKS5idWlsZCgpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">QXNzZXJ0CiAgICAgICAgU3RyZWFtPE1ldGFkYXRhVmFsdWU+IG1ldGFkYXRhVmFsdWVTdHJlYW0gPSBjb250cmFjdFJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kQnlJZChjb250cmFjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLmdldCgpLmdldE1ldGFkYXRhcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKG0gLT4gbS5nZXRDYXRlZ29yeSgpID09IGNhdGVnb3J5KQogICAgICAgICAgICAgICAgLmZsYXRNYXAobSAtPiBtLmdldE1ldGFkYXRhVmFsdWVzKCkuc3RyZWFtKCkpOwogICAgICAgIE9wdGlvbmFsPE1ldGFkYXRhVmFsdWU+IGNoYW5nZWQgPSBtZXRhZGF0YVZhbHVlU3RyZWFtLmZpbHRlcihtdiAtPiBtdi5nZXRWYWx1ZSgpLmVxdWFscygiY2hhbmdlZCIpKS5maW5kRmlyc3QoKTsKICAgICAgICBPcHRpb25hbDxNZXRhZGF0YVZhbHVlPiBrZWVwID0gbWV0YWRhdGFWYWx1ZVN0cmVhbS5maWx0ZXIobXYgLT4gbXYuZ2V0VmFsdWUoKS5lcXVhbHMoImtlZXAiKSkuZmluZEZpcnN0KCk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSmRiY01ldGFkYXRhQ2F0ZWdvcnlSZXBvc2l0b3J5IGNhdGVnb3J5UmVwb3NpdG9yeTsgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3RyZWFtLmVtcHR5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgQEF1dG93aXJlZGRkCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRWYWx1ZSgiQ2xlYW4iLCBPcmlnaW4uVVNFUl9SRVZJRVcpCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAvL2NhdGVnb3J5Ug==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKS5nZXRNZXRhZGF0YXMoKS5zdHJlYW0oKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">QXNzZXJ0CiAgICAgICAgU3RyZWFtPE1ldGFkYXRhVmFsdWU+IG1ldGFkYXRhVmFsdWVTdHJlYW0gPSBjb250cmFjdFJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kQnlJZChjb250cmFjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLmdldCgpLmdldE1ldGFkYXRhcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKG0gLT4gbS5nZXRDYXRlZ29yeSgpID09IGNhdGVnb3J5KQogICAgICAgICAgICAgICAgLmZsYXRNYXAobSAtPiBtLmdldE1ldGFkYXRhVmFsdWVzKCkuc3RyZWFtKCkpOwogICAgICAgIE9wdGlvbmFsPE1ldGFkYXRhVmFsdWU+IGNoYW5nZWQgPSBtZXRhZGF0YVZhbHVlU3RyZWFtLmZpbHRlcihtdiAtPiBtdi5nZXRWYWx1ZSgpLmVxdWFscygiY2hhbmdlZCIpKS5maW5kRmlyc3QoKTsKICAgICAgICBPcHRpb25hbDxNZXRhZGF0YVZhbHVlPiBrZWVwID0gbWV0YWRhdGFWYWx1ZVN0cmVhbS5maWx0ZXIobXYgLT4gbXYuZ2V0VmFsdWUoKS5lcXVhbHMoImtlZXAiKSkuZmluZEZpcnN0KCk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWxNZXRhZGF0YS5zdHJlYW0K</text>
+        <text encoding="base64">U3RyZWFtLmVtcHR5KCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRWYWx1ZSgiQ2xlYW4iLCBPcmlnaW4uVVNFUl9SRVZJRVcpCg==</text>
       </register>
     </registers>
     <search>
