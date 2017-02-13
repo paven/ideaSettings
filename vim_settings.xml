@@ -17,42 +17,47 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486979983021">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486982058098">
+        <mark key="e" line="145" column="40" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="155" column="16" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhY3R1YWxNZXRhZGF0YS5zdHJlYW0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhY3R1YWxNZXRhZGF0YS5zdHJlYW0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3IHJldmlldyA9IGNyZWF0ZVRlc3RSZXZpZXcoY29udHJhY3QsIGNhdGVnb3J5TmFtZSwgc3RhdGUpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3IHJldmlldyA9IGNyZWF0ZVRlc3RSZXZpZXcoY29udHJhY3QsIGNhdGVnb3J5TmFtZSwgc3RhdGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3LlJldmlld1N0YXRlIHN0YXRlID0gVWRtbFJldmlldy5SZXZpZXdTdGF0ZS5SRVZJRVdFRDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>w reviewAfterDelete = udmlApi.getReviewForContract(contract.getId(), type);
         assertNotNull(reviewBeforeDelete);
         assertNull(reviewAfterDelete);</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>httpStatusChecke</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>StringBuilder checkLogMessage = new StringBuilder(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja0xvZ01lc3NhZ2UuYXBwZW5kKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>saveContractReview</text>
+        <text encoding="base64">IFNldDxNZXRhZGF0YT4gYWN0dWFsTWV0YWRhdGEgPSA=</text>
       </register>
     </registers>
     <search>
