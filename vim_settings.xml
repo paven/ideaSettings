@@ -17,50 +17,49 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486983072602">
-        <mark key="e" line="145" column="40" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="155" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486988580931">
+        <mark key="e" line="146" column="40" />
+        <mark key="[" line="158" column="30" />
+        <mark key="]" line="158" column="31" />
+        <mark key="." line="158" column="31" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKS5nZXRNZXRhZGF0YXMoKS5zdHJlYW0oKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">QXNzZXJ0CiAgICAgICAgU3RyZWFtPE1ldGFkYXRhVmFsdWU+IG1ldGFkYXRhVmFsdWVTdHJlYW0gPSBjb250cmFjdFJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kQnlJZChjb250cmFjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLmdldCgpLmdldE1ldGFkYXRhcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKG0gLT4gbS5nZXRDYXRlZ29yeSgpID09IGNhdGVnb3J5KQogICAgICAgICAgICAgICAgLmZsYXRNYXAobSAtPiBtLmdldE1ldGFkYXRhVmFsdWVzKCkuc3RyZWFtKCkpOwogICAgICAgIE9wdGlvbmFsPE1ldGFkYXRhVmFsdWU+IGNoYW5nZWQgPSBtZXRhZGF0YVZhbHVlU3RyZWFtLmZpbHRlcihtdiAtPiBtdi5nZXRWYWx1ZSgpLmVxdWFscygiY2hhbmdlZCIpKS5maW5kRmlyc3QoKTsKICAgICAgICBPcHRpb25hbDxNZXRhZGF0YVZhbHVlPiBrZWVwID0gbWV0YWRhdGFWYWx1ZVN0cmVhbS5maWx0ZXIobXYgLT4gbXYuZ2V0VmFsdWUoKS5lcXVhbHMoImtlZXAiKSkuZmluZEZpcnN0KCk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKS5nZXRNZXRhZGF0YXMoKS5zdHJlYW0oKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QXNzZXJ0CiAgICAgICAgU3RyZWFtPE1ldGFkYXRhVmFsdWU+IG1ldGFkYXRhVmFsdWVTdHJlYW0gPSBjb250cmFjdFJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kQnlJZChjb250cmFjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLmdldCgpLmdldE1ldGFkYXRhcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKG0gLT4gbS5nZXRDYXRlZ29yeSgpID09IGNhdGVnb3J5KQogICAgICAgICAgICAgICAgLmZsYXRNYXAobSAtPiBtLmdldE1ldGFkYXRhVmFsdWVzKCkuc3RyZWFtKCkpOwogICAgICAgIE9wdGlvbmFsPE1ldGFkYXRhVmFsdWU+IGNoYW5nZWQgPSBtZXRhZGF0YVZhbHVlU3RyZWFtLmZpbHRlcihtdiAtPiBtdi5nZXRWYWx1ZSgpLmVxdWFscygiY2hhbmdlZCIpKS5maW5kRmlyc3QoKTsKICAgICAgICBPcHRpb25hbDxNZXRhZGF0YVZhbHVlPiBrZWVwID0gbWV0YWRhdGFWYWx1ZVN0cmVhbS5maWx0ZXIobXYgLT4gbXYuZ2V0VmFsdWUoKS5lcXVhbHMoImtlZXAiKSkuZmluZEZpcnN0KCk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWxNZXRhZGF0YS5zdHJlYW0K</text>
+        <text encoding="base64">U3RyZWFtLmVtcHR5KCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRWYWx1ZSgiQ2xlYW4iLCBPcmlnaW4uVVNFUl9SRVZJRVcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3IHJldmlldyA9IGNyZWF0ZVRlc3RSZXZpZXcoY29udHJhY3QsIGNhdGVnb3J5TmFtZSwgc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKS5nZXRNZXRhZGF0YXMoKS5zdHJlYW0oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3LlJldmlld1N0YXRlIHN0YXRlID0gVWRtbFJldmlldy5SZXZpZXdTdGF0ZS5SRVZJRVdFRDsK</text>
+        <text encoding="base64">ICAgICAgICBhY3R1YWxNZXRhZGF0YS5zdHJlYW0K</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB1ZG1sQXBpLihyZXZpZXcpOwogICAgICAgIFVkbWxSZXZpZXcgcmV2aWV3QmVmb3JlRGVsZXRlID0gdWRtbEFwaS5nZXRSZXZpZXdGb3JDb250cmFjdChjb250cmFjdC5nZXRJZCgpLCBjYXRlZ29yeU5hbWUpOw==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3IHJldmlldyA9IGNyZWF0ZVRlc3RSZXZpZXcoY29udHJhY3QsIGNhdGVnb3J5TmFtZSwgc3RhdGUpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBVZG1sUmV2aWV3LlJldmlld1N0YXRlIHN0YXRlID0gVWRtbFJldmlldy5SZXZpZXdTdGF0ZS5SRVZJRVdFRDsK</text>
+      </register>
+      <register name="9" type="4">
         <text>w reviewAfterDelete = udmlApi.getReviewForContract(contract.getId(), type);
         assertNotNull(reviewBeforeDelete);
         assertNull(reviewAfterDelete);</text>
       </register>
-      <register name="7" type="8">
-        <text>httpStatusChecke</text>
-      </register>
-      <register name="8" type="8">
-        <text>StringBuilder checkLogMessage = new StringBuilder(</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0xvZ01lc3NhZ2UuYXBwZW5kKCkK</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IFNldDxNZXRhZGF0YT4gYWN0dWFsTWV0YWRhdGEgPSA=</text>
+        <text encoding="base64">IG1ldGFkYXRhVmFsdWVTdHJlYW0uZmlsdGVyKCk=</text>
       </register>
     </registers>
     <search>
