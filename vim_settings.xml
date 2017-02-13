@@ -12,28 +12,38 @@
         <mark key="." line="15" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" timestamp="1486978769810" />
-      <file name="/a.regexp" timestamp="1486978528037">
-        <mark key="[" line="0" column="23" />
+      <file name="/a.regexp" timestamp="1486978824248">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" timestamp="1486979331299">
+        <mark key="[" line="131" column="25" />
+        <mark key="]" line="131" column="25" />
+        <mark key="." line="131" column="25" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="8">
-        <text>httpStatusChecke</text>
+      <register name="1" type="4">
+        <text>w reviewAfterDelete = udmlApi.getReviewForContract(contract.getId(), type);
+        assertNotNull(reviewBeforeDelete);
+        assertNull(reviewAfterDelete);</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>httpStatusChecke</text>
+      <register name="&quot;" type="4">
+        <text>Met</text>
       </register>
       <register name="2" type="8">
+        <text>httpStatusChecke</text>
+      </register>
+      <register name="3" type="8">
         <text>StringBuilder checkLogMessage = new StringBuilder(</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja0xvZ01lc3NhZ2UuYXBwZW5kKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Met</text>
       </register>
     </registers>
     <search>
