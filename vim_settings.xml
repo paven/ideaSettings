@@ -6,15 +6,12 @@
       <file name="/Dummy.txt" timestamp="1487063732354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-domain/src/main/java/com/seal/domain/SealContract.java" timestamp="1486993486006" />
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/test/java/com/seal/servicestatus/checkers/HttpStatusCheckerTest.java" timestamp="1482410670692">
         <mark key="[" line="15" column="64" />
         <mark key="]" line="15" column="64" />
         <mark key="." line="15" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/test/java/com/seal/module/contract/service/impl/MetadataAPIImplTest.java" timestamp="1486997793850" />
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/api/MetadataAPI.java" timestamp="1486997944620" />
-      <file name="/a.regexp" timestamp="1486997743197">
+      <file name="/a.regexp" timestamp="1487160644962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -57,7 +54,6 @@
         <mark key="." line="77" column="46" />
         <mark key="^" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" timestamp="1486978769810" />
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/config/SealUdmlModuleConfig.java" timestamp="1487000065367">
         <mark key="[" line="18" column="83" />
       </file>
