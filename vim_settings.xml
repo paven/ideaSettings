@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1487063732354">
@@ -10,6 +10,9 @@
         <mark key="[" line="15" column="64" />
         <mark key="]" line="15" column="64" />
         <mark key="." line="15" column="64" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-gui/client/app/seal/admin/security/views/user-group.html" timestamp="1487173679220">
+        <mark key="^" line="28" column="111" />
       </file>
       <file name="/a.regexp" timestamp="1487172765154">
         <mark key="[" line="0" column="0" />
