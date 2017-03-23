@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.seal-software.net/" />
+          <token>dfc8df9edfccdf9adf9adf98df9adfccdfcfdf93dfcbdf92dfcbdf9ddf9fdf99df93dfcfdfcfdfccdf9fdf9fdfc9df9bdf9ddfc8df9ddf92df9edf9adfc9df9edfc8df9bdf9ddf9bdf93dfcbdf9cdf9f</token>
+          <option name="name" value="SEAL" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
