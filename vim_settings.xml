@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1493908251387">
@@ -52,6 +52,12 @@
         <mark key="]" line="205" column="88" />
         <mark key="." line="205" column="88" />
       </file>
+      <file name="$USER_HOME$/Projects/seal/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" timestamp="1493910674452">
+        <mark key="'" line="104" column="31" />
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="104" column="31" />
+        <mark key="." line="104" column="31" />
+      </file>
       <file name="/JavaScript Console" timestamp="1487161753500">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,13 +108,14 @@
       <jump line="163" column="55" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/test/java/com/seal/udml/service/api/UdmlAPITest.java" />
       <jump line="33" column="113" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/impl/api/UdmlApiImpl.java" />
       <jump line="166" column="52" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/api/MetadataAPIImpl.java" />
+      <jump line="104" column="31" filename="$USER_HOME$/Projects/seal/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZU9yUmVwbGFjZURpc3BsYXlOYW1lKHVzZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>wgetDisplayName</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
