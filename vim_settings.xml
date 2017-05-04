@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1487063732354">
+      <file name="/Dummy.txt" timestamp="1493908251387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/test/java/com/seal/servicestatus/checkers/HttpStatusCheckerTest.java" timestamp="1482410670692">
@@ -35,7 +35,6 @@
       <file name="$USER_HOME$/Projects/seal/seal-back/seal-store-sql/src/main/resources/db.changelog-lise.xml" timestamp="1492695876714">
         <mark key="[" line="22" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1492695818096" />
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-user/src/main/java/com/seal/module/user/service/UserServiceImpl.java" timestamp="1487165187290">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
