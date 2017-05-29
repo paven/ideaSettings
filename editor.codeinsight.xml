@@ -1,5 +1,11 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseEndOfLineComments" value="true" />
   </component>
 </application>
