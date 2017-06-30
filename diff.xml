@@ -51,7 +51,7 @@
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="SHOW_WHITESPACES" value="true" />
           <option name="USE_SOFT_WRAPS" value="true" />
