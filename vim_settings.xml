@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1493908251387">
@@ -102,12 +102,12 @@
       <file name="/dummy.sql" timestamp="1492695835381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" timestamp="1498921697618">
+      <file name="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" timestamp="1498922587007">
         <mark key="'" line="4" column="13" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -194,6 +194,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
