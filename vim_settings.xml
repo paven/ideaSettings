@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1493908251387">
@@ -102,6 +102,13 @@
       <file name="/dummy.sql" timestamp="1492695835381">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" timestamp="1498921697618">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="161" column="57" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcContractRepository.java" />
@@ -113,6 +120,7 @@
       <jump line="33" column="113" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/impl/api/UdmlApiImpl.java" />
       <jump line="166" column="52" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/api/MetadataAPIImpl.java" />
       <jump line="104" column="31" filename="$USER_HOME$/Projects/seal/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" />
+      <jump line="4" column="13" filename="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
