@@ -14,6 +14,7 @@
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-gui/client/app/seal/admin/security/views/user-group.html" timestamp="1487173679220">
         <mark key="^" line="28" column="111" />
       </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/app.ts" timestamp="1499414350005" />
       <file name="/a.regexp" timestamp="1487172765154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -61,6 +62,12 @@
         <mark key="]" line="104" column="31" />
         <mark key="." line="104" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/seal/udml/AnnotationEditorDirective.ts" timestamp="1499414776654">
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="101" column="47" />
+        <mark key="." line="101" column="47" />
+        <mark key="^" line="101" column="47" />
+      </file>
       <file name="/JavaScript Console" timestamp="1487161753500">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,15 +77,6 @@
         <mark key="]" line="148" column="8" />
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/impl/api/UdmlApiImpl.java" timestamp="1487000094461">
-        <mark key="c" line="36" column="41" />
-        <mark key="e" line="77" column="22" />
-        <mark key="'" line="33" column="113" />
-        <mark key="[" line="77" column="46" />
-        <mark key="]" line="77" column="46" />
-        <mark key="." line="77" column="46" />
-        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/config/SealUdmlModuleConfig.java" timestamp="1487000065367">
         <mark key="[" line="18" column="83" />
@@ -126,8 +124,8 @@
       <jump line="4" column="13" filename="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W1sgJHRyYWNrcyBdXSAmJiBpbXBvcnRhbnRCcmFuY2hlcys9IiAkdHJhY2tzIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OwoKICAgICAgICAvKioKICAgICAgICAgKiBEaWN0YXRlcyBpZiBhbm5vdGF0aW9ucyBzaG91bGQgYmUgc2hvd2VkIG9yIG5vdAogICAgICAgICAqIEB0eXBlIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgc2hvd0Fubm90YXRpb25zOiBib29sZWFuID0gdHJ1ZTsKCiAgICAgICAgLyoqCiAgICAgICAgICogQWxsIGNvbnRyYWN0IG1ldGFkYXRhSXRlbXMKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgbWV0YWRhdGFJdGVtczogQXJyYXk8c2VhbC5jb250cmFjdC5FZGl0YWJsZU1ldGFkYXRhPiA9IFtdOwoKICAgICAgICAvKioKICAgICAgICAgKiBBbGwgYW5ub3RhdGlvbnMgZXh0cmFjdGVkIGZyb20gY29udHJhY3QKICAgICAgICAgKi8KICAgICAgICBw</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -138,32 +136,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBpZih1c2VyLmdldERpc3BsYXlOYW1lKCkgPT0gbnVsbCB8fCB1c2VyLmdldERpc3BsYXlOYW1lKCkuaXNFbXB0eSgpKXsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">W1sgJHRyYWNrcyBdXSAmJiBpbXBvcnRhbnRCcmFuY2hlcys9IiAkdHJhY2tzIgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">OwoKICAgICAgICAvKioKICAgICAgICAgKiBEaWN0YXRlcyBpZiBhbm5vdGF0aW9ucyBzaG91bGQgYmUgc2hvd2VkIG9yIG5vdAogICAgICAgICAqIEB0eXBlIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgc2hvd0Fubm90YXRpb25zOiBib29sZWFuID0gdHJ1ZTsKCiAgICAgICAgLyoqCiAgICAgICAgICogQWxsIGNvbnRyYWN0IG1ldGFkYXRhSXRlbXMKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgbWV0YWRhdGFJdGVtczogQXJyYXk8c2VhbC5jb250cmFjdC5FZGl0YWJsZU1ldGFkYXRhPiA9IFtdOwoKICAgICAgICAvKioKICAgICAgICAgKiBBbGwgYW5ub3RhdGlvbnMgZXh0cmFjdGVkIGZyb20gY29udHJhY3QKICAgICAgICAgKi8KICAgICAgICBw</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0YW50QnJhbmNoZXMrPSIgb3JpZ2luL21hc3RlciIK</text>
+        <text encoding="base64">W1sgJHRyYWNrcyBdXSAmJiBpbXBvcnRhbnRCcmFuY2hlcys9IiAkdHJhY2tzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZU9yUmVwbGFjZURpc3BsYXlOYW1lKHVzZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0YW50QnJhbmNoZXMrPSIgb3JpZ2luL21hc3RlciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZU9yUmVwbGFjZURpc3BsYXlOYW1lKHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIHZhbGlkYXRlT3JSZXBsYWNlRGlzcGxheU5hbWUoVXNlciB1c2VyKSB7CiAgICAgICAgaWYodXNlci5nZXREaXNwbGF5TmFtZSgpID09IG51bGwgfHwgdXNlci5nZXREaXNwbGF5TmFtZSgpLmlzRW1wdHkoKSl7CgogICAgICAgIH0KICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zZWFsLm1vZHVsZS5jb250cmFjdC5zZXJ2aWNlLmltcGwuYXBpLk1ldGFkYXRhQVBJSW1wbDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIHZhbGlkYXRlT3JSZXBsYWNlRGlzcGxheU5hbWUoVXNlciB1c2VyKSB7CiAgICAgICAgaWYodXNlci5nZXREaXNwbGF5TmFtZSgpID09IG51bGwgfHwgdXNlci5nZXREaXNwbGF5TmFtZSgpLmlzRW1wdHkoKSl7CgogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zZWFsLm1vZHVsZS5jb250cmFjdC5zZXJ2aWNlLmltcGwuYXBpLk1ldGFkYXRhQVBJSW1wbDsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
