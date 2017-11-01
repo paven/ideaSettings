@@ -8,6 +8,7 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
