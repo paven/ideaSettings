@@ -6,6 +6,7 @@
       <mapping pattern="alog" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
+      <mapping pattern="LabelPolicyService" type="TypeScript JSX" />
       <mapping ext="preview" type="XHTML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
