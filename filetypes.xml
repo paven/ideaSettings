@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="graph" type="PLAIN_TEXT" />
+      <mapping pattern="Label" type="PLAIN_TEXT" />
       <mapping pattern="alog" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
