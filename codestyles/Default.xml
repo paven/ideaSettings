@@ -1,4 +1,11 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999999" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999999" />
+  </JavaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
 </code_scheme>
