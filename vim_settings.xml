@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1518701030264">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-jobrunner/src/test/java/com/seal/servicestatus/checkers/HttpStatusCheckerTest.java" timestamp="1482410670692">
         <mark key="[" line="15" column="64" />
         <mark key="]" line="15" column="64" />
@@ -10,6 +13,23 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-gui/client/app/seal/admin/security/views/user-group.html" timestamp="1487173679220">
         <mark key="^" line="28" column="111" />
+      </file>
+      <file name="/a.regexp" timestamp="1487172765154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/seal/udml/views/models2.html" timestamp="1497011333875">
+        <mark key="[" line="125" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-user/src/main/java/com/seal/module/user/domain/User.java" timestamp="1487164668750">
+        <mark key="[" line="85" column="36" />
+        <mark key="]" line="85" column="36" />
+        <mark key="^" line="85" column="36" />
+        <mark key="." line="85" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/seal/seal-back/seal-store-sql/src/main/resources/db.changelog-lise.xml" timestamp="1492695876714">
+        <mark key="[" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-user/src/main/java/com/seal/module/user/service/UserServiceImpl.java" timestamp="1487165187290">
         <mark key="[" line="57" column="0" />
@@ -29,8 +49,32 @@
         <mark key="]" line="104" column="31" />
         <mark key="." line="104" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcMetadataRepository.java" timestamp="1487000307977">
+        <mark key="[" line="206" column="8" />
+        <mark key="]" line="205" column="88" />
+        <mark key="." line="205" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/seal/udml/AnnotationEditorDirective.ts" timestamp="1499414776654">
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="101" column="47" />
+        <mark key="." line="101" column="47" />
+        <mark key="^" line="101" column="47" />
+      </file>
       <file name="/JavaScript Console" timestamp="1487161753500">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcContractRepository.java" timestamp="1486988853531">
+        <mark key="'" line="148" column="8" />
+        <mark key="[" line="148" column="8" />
+        <mark key="]" line="148" column="8" />
+        <mark key="." line="148" column="8" />
+        <mark key="^" line="148" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" timestamp="1518689006340">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/config/SealUdmlModuleConfig.java" timestamp="1487000065367">
         <mark key="[" line="18" column="83" />
@@ -49,57 +93,10 @@
       <file name="/dummy.sql" timestamp="1492695835381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.test.tsx" timestamp="1518689801264">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/birGit/birgit_/mergebase" timestamp="1499407627748">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1493908251387">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1487172765154">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/seal/udml/views/models2.html" timestamp="1497011333875">
-        <mark key="[" line="125" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-user/src/main/java/com/seal/module/user/domain/User.java" timestamp="1487164668750">
-        <mark key="[" line="85" column="36" />
-        <mark key="]" line="85" column="36" />
-        <mark key="^" line="85" column="36" />
-        <mark key="." line="85" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/seal/seal-back/seal-store-sql/src/main/resources/db.changelog-lise.xml" timestamp="1492695876714">
-        <mark key="[" line="22" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcMetadataRepository.java" timestamp="1487000307977">
-        <mark key="[" line="206" column="8" />
-        <mark key="]" line="205" column="88" />
-        <mark key="." line="205" column="88" />
-      </file>
-      <file name="$USER_HOME$/Projects/seal/seal-gui/client/app/seal/udml/AnnotationEditorDirective.ts" timestamp="1499414776654">
-        <mark key="[" line="68" column="47" />
-        <mark key="]" line="101" column="47" />
-        <mark key="." line="101" column="47" />
-        <mark key="^" line="101" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/jdbc/repository/JdbcContractRepository.java" timestamp="1486988853531">
-        <mark key="'" line="148" column="8" />
-        <mark key="[" line="148" column="8" />
-        <mark key="]" line="148" column="8" />
-        <mark key="." line="148" column="8" />
-        <mark key="^" line="148" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" timestamp="1518689006340">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.test.tsx" timestamp="1518701180095">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1487063732364">
         <mark key="[" line="0" column="0" />
@@ -112,6 +109,9 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/opt/birGit/birgit_/mergebase" timestamp="1499407627748">
+        <mark key="[" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -128,11 +128,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>G</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uU3VibWl0PXtsb2dpbk1vY2tDYWxsYmFja30vPik7</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
