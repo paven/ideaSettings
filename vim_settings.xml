@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1493908251387">
@@ -77,6 +77,12 @@
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" timestamp="1518689006340">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/config/SealUdmlModuleConfig.java" timestamp="1487000065367">
         <mark key="[" line="18" column="83" />
       </file>
@@ -121,10 +127,11 @@
       <jump line="166" column="52" filename="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/api/MetadataAPIImpl.java" />
       <jump line="104" column="31" filename="$USER_HOME$/Projects/seal/seal-back/seal-internal-api/src/main/swagger/udml-models.yaml" />
       <jump line="4" column="13" filename="$USER_HOME$/opt/birGit/birgit_/forkpointReplace" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OwoKICAgICAgICAvKioKICAgICAgICAgKiBEaWN0YXRlcyBpZiBhbm5vdGF0aW9ucyBzaG91bGQgYmUgc2hvd2VkIG9yIG5vdAogICAgICAgICAqIEB0eXBlIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgc2hvd0Fubm90YXRpb25zOiBib29sZWFuID0gdHJ1ZTsKCiAgICAgICAgLyoqCiAgICAgICAgICogQWxsIGNvbnRyYWN0IG1ldGFkYXRhSXRlbXMKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgbWV0YWRhdGFJdGVtczogQXJyYXk8c2VhbC5jb250cmFjdC5FZGl0YWJsZU1ldGFkYXRhPiA9IFtdOwoKICAgICAgICAvKioKICAgICAgICAgKiBBbGwgYW5ub3RhdGlvbnMgZXh0cmFjdGVkIGZyb20gY29udHJhY3QKICAgICAgICAgKi8KICAgICAgICBw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -135,32 +142,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBpZih1c2VyLmdldERpc3BsYXlOYW1lKCkgPT0gbnVsbCB8fCB1c2VyLmdldERpc3BsYXlOYW1lKCkuaXNFbXB0eSgpKXsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">OwoKICAgICAgICAvKioKICAgICAgICAgKiBEaWN0YXRlcyBpZiBhbm5vdGF0aW9ucyBzaG91bGQgYmUgc2hvd2VkIG9yIG5vdAogICAgICAgICAqIEB0eXBlIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgc2hvd0Fubm90YXRpb25zOiBib29sZWFuID0gdHJ1ZTsKCiAgICAgICAgLyoqCiAgICAgICAgICogQWxsIGNvbnRyYWN0IG1ldGFkYXRhSXRlbXMKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgbWV0YWRhdGFJdGVtczogQXJyYXk8c2VhbC5jb250cmFjdC5FZGl0YWJsZU1ldGFkYXRhPiA9IFtdOwoKICAgICAgICAvKioKICAgICAgICAgKiBBbGwgYW5ub3RhdGlvbnMgZXh0cmFjdGVkIGZyb20gY29udHJhY3QKICAgICAgICAgKi8KICAgICAgICBw</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W1sgJHRyYWNrcyBdXSAmJiBpbXBvcnRhbnRCcmFuY2hlcys9IiAkdHJhY2tzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0YW50QnJhbmNoZXMrPSIgb3JpZ2luL21hc3RlciIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZU9yUmVwbGFjZURpc3BsYXlOYW1lKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIHZhbGlkYXRlT3JSZXBsYWNlRGlzcGxheU5hbWUoVXNlciB1c2VyKSB7CiAgICAgICAgaWYodXNlci5nZXREaXNwbGF5TmFtZSgpID09IG51bGwgfHwgdXNlci5nZXREaXNwbGF5TmFtZSgpLmlzRW1wdHkoKSl7CgogICAgICAgIH0KICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlkZHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLnNlbGVjdGVkQ2F0ZWdvcnl0aGlzLnByb3BzLm1hdGNoLnBhcmFtcy5zZWxlY3RlZENhdGVnb3J5cy5wcm9wcy5jYXRlZ29yeSkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zZWFsLm1vZHVsZS5jb250cmFjdC5zZXJ2aWNlLmltcGwuYXBpLk1ldGFkYXRhQVBJSW1wbDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">OwoKICAgICAgICAvKioKICAgICAgICAgKiBEaWN0YXRlcyBpZiBhbm5vdGF0aW9ucyBzaG91bGQgYmUgc2hvd2VkIG9yIG5vdAogICAgICAgICAqIEB0eXBlIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgc2hvd0Fubm90YXRpb25zOiBib29sZWFuID0gdHJ1ZTsKCiAgICAgICAgLyoqCiAgICAgICAgICogQWxsIGNvbnRyYWN0IG1ldGFkYXRhSXRlbXMKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgbWV0YWRhdGFJdGVtczogQXJyYXk8c2VhbC5jb250cmFjdC5FZGl0YWJsZU1ldGFkYXRhPiA9IFtdOwoKICAgICAgICAvKioKICAgICAgICAgKiBBbGwgYW5ub3RhdGlvbnMgZXh0cmFjdGVkIGZyb20gY29udHJhY3QKICAgICAgICAgKi8KICAgICAgICBw</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W1sgJHRyYWNrcyBdXSAmJiBpbXBvcnRhbnRCcmFuY2hlcys9IiAkdHJhY2tzIgo=</text>
       </register>
     </registers>
     <search>
