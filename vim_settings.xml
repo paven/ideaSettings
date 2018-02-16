@@ -36,6 +36,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/setupTests.ts" timestamp="1518775331442">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-contract/src/main/java/com/seal/module/contract/service/impl/api/MetadataAPIImpl.java" timestamp="1487063800622">
         <mark key="'" line="166" column="52" />
         <mark key="[" line="166" column="77" />
@@ -129,7 +134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGlzdGxpc3RpdGVtIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSlNET00gfSBmcm9tICdqc2RvbSc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
@@ -141,31 +146,31 @@
         <text encoding="base64">ICAgICAgICBpZih1c2VyLmdldERpc3BsYXlOYW1lKCkgPT0gbnVsbCB8fCB1c2VyLmdldERpc3BsYXlOYW1lKCkuaXNFbXB0eSgpKXsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGlzdGxpc3RpdGVtIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSlNET00gfSBmcm9tICdqc2RvbSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbGlzdGxpc3RpdGVtIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlci5maW5kKGJ1dHRvbnMuUHJpbWFyeSkpLnRvSGF2ZUxlbmd0aCgxKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3cmFwcGVyID0gZW56eW1lLnNoYWxsb3coPENyZWF0ZUNhdGVnb3J5IG9uU3VibWl0PXtsb2dpbk1vY2tDYWxsYmFja30vPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlci5maW5kKGJ1dHRvbnMuUHJpbWFyeSkpLnRvSGF2ZUxlbmd0aCgxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVuZGVyIGEgQ3JlYXRlIGJ1dHRvbicsICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3cmFwcGVyID0gZW56eW1lLnNoYWxsb3coPENyZWF0ZUNhdGVnb3J5IG9uU3VibWl0PXtsb2dpbk1vY2tDYWxsYmFja30vPik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENyZWF0ZUNhdGVnb3J5IGZyb20gJy4vaW5kZXgnCg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVuZGVyIGEgQ3JlYXRlIGJ1dHRvbicsICgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnV0dG9ucywgaW5wdXRzIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
+        <text encoding="base64">aW1wb3J0IENyZWF0ZUNhdGVnb3J5IGZyb20gJy4vaW5kZXgnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYnV0dG9ucywgaW5wdXRzIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
