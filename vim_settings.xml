@@ -70,11 +70,11 @@
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" timestamp="1518689006340">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" timestamp="1518771525081">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/SEAL/seal-back/seal-udml/src/main/java/com/seal/udml/service/config/SealUdmlModuleConfig.java" timestamp="1487000065367">
         <mark key="[" line="18" column="83" />
@@ -128,8 +128,8 @@
       <jump line="70" column="0" filename="$USER_HOME$/Projects/seal/seal-gui/scx/src/app/pages/Categories/components/CategoryDetails/CategoryDetails.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbGlzdGxpc3RpdGVtIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
@@ -141,31 +141,31 @@
         <text encoding="base64">ICAgICAgICBpZih1c2VyLmdldERpc3BsYXlOYW1lKCkgPT0gbnVsbCB8fCB1c2VyLmdldERpc3BsYXlOYW1lKCkuaXNFbXB0eSgpKXsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbGlzdGxpc3RpdGVtIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlci5maW5kKGJ1dHRvbnMuUHJpbWFyeSkpLnRvSGF2ZUxlbmd0aCgxKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3cmFwcGVyID0gZW56eW1lLnNoYWxsb3coPENyZWF0ZUNhdGVnb3J5IG9uU3VibWl0PXtsb2dpbk1vY2tDYWxsYmFja30vPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlci5maW5kKGJ1dHRvbnMuUHJpbWFyeSkpLnRvSGF2ZUxlbmd0aCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVuZGVyIGEgQ3JlYXRlIGJ1dHRvbicsICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3cmFwcGVyID0gZW56eW1lLnNoYWxsb3coPENyZWF0ZUNhdGVnb3J5IG9uU3VibWl0PXtsb2dpbk1vY2tDYWxsYmFja30vPik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENyZWF0ZUNhdGVnb3J5IGZyb20gJy4vaW5kZXgnCg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVuZGVyIGEgQ3JlYXRlIGJ1dHRvbicsICgpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnV0dG9ucywgaW5wdXRzIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
+        <text encoding="base64">aW1wb3J0IENyZWF0ZUNhdGVnb3J5IGZyb20gJy4vaW5kZXgnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYnV0dG9ucywgaW5wdXRzIH0gZnJvbSAnc2VhbC11aS1jb21wb25lbnRzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
