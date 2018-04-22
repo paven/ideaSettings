@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="graph" type="PLAIN_TEXT" />
-      <mapping pattern="Label" type="PLAIN_TEXT" />
-      <mapping pattern="alog" type="PLAIN_TEXT" />
-      <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
+      <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
+      <mapping pattern="alog" type="PLAIN_TEXT" />
+      <mapping pattern="Label" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
+      <mapping pattern="update" type="Python" />
       <mapping pattern="LabelPolicyService" type="TypeScript JSX" />
       <mapping ext="preview" type="XHTML" />
       <mapping ext="fnc" type="DBN-PSQL" />
