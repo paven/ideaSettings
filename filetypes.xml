@@ -10,6 +10,7 @@
       <mapping pattern="update" type="Python" />
       <mapping pattern="LabelPolicyService" type="TypeScript JSX" />
       <mapping ext="preview" type="XHTML" />
+      <mapping pattern="ContractSearchQuerryDefinitions" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
