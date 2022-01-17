@@ -1,17 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Label" type="PLAIN_TEXT" />
       <mapping pattern="graph" type="PLAIN_TEXT" />
+      <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping pattern=".user.ini" type="PLAIN_TEXT" />
       <mapping pattern="alog" type="PLAIN_TEXT" />
-      <mapping pattern="Label" type="PLAIN_TEXT" />
       <mapping pattern="lols" type="PLAIN_TEXT" />
-      <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping ext="metadata" type="PLAIN_TEXT" />
-      <mapping pattern="update" type="Python" />
       <mapping pattern="LabelPolicyService" type="TypeScript JSX" />
       <mapping ext="preview" type="XHTML" />
       <mapping pattern="ContractSearchQuerryDefinitions" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
@@ -22,6 +26,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="update" type="Python" />
     </extensionMap>
   </component>
 </application>

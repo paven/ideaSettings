@@ -51,7 +51,6 @@
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="SHOW_WHITESPACES" value="true" />
